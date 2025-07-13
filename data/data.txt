@@ -1,0 +1,122 @@
+# RAG Chatbot Training Dataset
+
+## General Knowledge
+Q: What is the capital of France?
+A: The capital of France is Paris.
+
+Q: Who wrote 'Romeo and Juliet'?
+A: 'Romeo and Juliet' was written by William Shakespeare.
+
+Q: What is the chemical symbol for gold?
+A: The chemical symbol for gold is Au.
+
+## Technology
+Q: What is machine learning?
+A: Machine learning is a subset of artificial intelligence that enables systems to learn and improve from experience without being explicitly programmed.
+
+Q: Explain blockchain technology.
+A: Blockchain is a decentralized digital ledger that records transactions across many computers in a way that prevents alteration retroactively.
+
+Q: What's the difference between AR and VR?
+A: Augmented Reality (AR) overlays digital content on the real world, while Virtual Reality (VR) creates a completely immersive digital environment.
+
+## Science
+Q: What is photosynthesis?
+A: Photosynthesis is the process by which green plants use sunlight to synthesize foods with carbon dioxide and water, releasing oxygen as a byproduct.
+
+Q: Explain Newton's First Law of Motion.
+A: Newton's First Law states that an object will remain at rest or in uniform motion unless acted upon by an external force.
+
+Q: What causes the seasons?
+A: Earth's axial tilt relative to its orbital plane causes different parts of Earth to receive varying sunlight intensity throughout the year, creating seasons.
+
+## Health
+Q: How much water should I drink daily?
+A: The general recommendation is about 3.7 liters for men and 2.7 liters for women total from all beverages and foods.
+
+Q: What are the symptoms of COVID-19?
+A: Common symptoms include fever, cough, fatigue, loss of taste or smell, and difficulty breathing in severe cases.
+
+Q: How often should I exercise?
+A: Adults should aim for at least 150 minutes of moderate-intensity aerobic activity or 75 minutes of vigorous activity weekly, plus muscle-strengthening twice a week.
+
+## Business/Finance
+Q: What is compound interest?
+A: Compound interest is interest calculated on the initial principal and also on accumulated interest from previous periods.
+
+Q: Explain supply and demand.
+A: Supply and demand is an economic model showing how price varies based on the balance between product availability (supply) and consumer desire (demand).
+
+Q: What is a 401(k)?
+A: A 401(k) is a U.S. employer-sponsored retirement savings plan where employees can contribute pre-tax income, with investments growing tax-deferred.
+
+## History
+Q: When was World War II?
+A: World War II occurred from 1939 to 1945.
+
+Q: Who was the first president of the United States?
+A: George Washington was the first U.S. president, serving from 1789 to 1797.
+
+Q: What caused the fall of the Roman Empire?
+A: Multiple factors contributed including economic troubles, military overspending, barbarian invasions, and government corruption.
+
+## Philosophy
+Q: What is existentialism?
+A: Existentialism is a philosophy emphasizing individual existence, freedom, and choice, with the belief that humans define their own meaning in life.
+
+Q: Explain Plato's theory of forms.
+A: Plato's theory suggests that non-physical abstract forms (or ideas) represent the most accurate reality, with physical objects being imperfect copies.
+
+Q: What is utilitarianism?
+A: Utilitarianism is an ethical theory that advocates actions maximizing happiness and well-being for the majority.
+
+## Personal Development
+Q: How can I improve my productivity?
+A: Effective methods include time blocking, eliminating distractions, setting clear goals, taking regular breaks, and prioritizing tasks.
+
+Q: What are some good public speaking tips?
+A: Practice thoroughly, know your audience, use stories, maintain eye contact, control your breathing, and embrace pauses.
+
+Q: How do I build good habits?
+A: Start small, be consistent, use triggers, track progress, reward yourself, and focus on one habit at a time.
+
+## Current Events (as of 2023)
+Q: What is ChatGPT?
+A: ChatGPT is an AI chatbot developed by OpenAI that uses large language models to generate human-like text responses.
+
+Q: What are the concerns about AI?
+A: Key concerns include job displacement, bias in algorithms, privacy issues, misinformation potential, and the challenge of aligning AI with human values.
+
+Q: What is the Ukraine-Russia conflict about?
+A: The conflict involves Russia's 2022 invasion of Ukraine, stemming from geopolitical tensions, NATO expansion concerns, and territorial disputes.
+
+## Multi-turn Conversations
+Q: Tell me about the solar system.
+A: Our solar system consists of the Sun and objects gravitationally bound to it, including 8 planets, dwarf planets, moons, asteroids, and comets.
+
+Q: Which is the largest planet?
+A: Jupiter is the largest planet in our solar system, more than twice as massive as all other planets combined.
+
+Q: Does it have rings?
+A: Yes, Jupiter has a faint ring system discovered in 1979 by the Voyager 1 spacecraft, composed mainly of dust.
+
+## Creative Writing
+Q: Write a short poem about the ocean.
+A: 
+"The ocean whispers in tides so grand,
+Stretching its fingers across the sand,
+A mirror for stars, a keeper of deep,
+Guardian of secrets it cradles to sleep."
+
+Q: Give me a story prompt about time travel.
+A: "You discover a pocket watch that can pause time for everyone but you. After using it for small conveniences, you notice strange side effects - memories that don't match reality, and shadows that move when time is stopped."
+
+## Technical Support
+Q: My computer won't turn on. What should I do?
+A: First check power connections, try a different outlet, remove external devices, and if still not working, consult a technician as it may be a hardware issue.
+
+Q: Why is my phone battery draining so fast?
+A: Common causes include background apps, high screen brightness, old battery, poor signal strength, or malware. Try closing unused apps and checking battery usage stats.
+
+Q: How do I reset my router?
+A: Locate the reset button (usually a small hole), press and hold it for 10-30 seconds with a paperclip until lights flash, then wait for it to reboot completely.
