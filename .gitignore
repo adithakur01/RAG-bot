@@ -1,1 +1,3 @@
 .venv/
+config.py
+my_vector_index/
